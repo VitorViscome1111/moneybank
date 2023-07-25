@@ -6,7 +6,8 @@
     "Telefone": "11985702857",
     "Endereço": "Rua das Flores, 852",
     "CEP": "85220-010",
-    "Cidade": "São Paulo - SP"
+    "Cidade": "São Paulo - SP",
+    "E-mail": "vitor.viscome@gmail.com"
   },
   {
     "CPF": "40119234560",
@@ -15,7 +16,8 @@
     "Telefone": "1133254789",
     "Endereço": "Av. das Palmeiras, 123",
     "CEP": "01325-080",
-    "Cidade": "São Paulo - SP"
+    "Cidade": "São Paulo - SP",
+    "E-mail": "carolina.almeida@gmail.com"
   },
   {
     "CPF": "29080370191",
@@ -24,7 +26,8 @@
     "Telefone": "11984561236",
     "Endereço": "Rua dos Ipês, 456",
     "CEP": "03230-040",
-    "Cidade": "São Paulo - SP"
+    "Cidade": "São Paulo - SP",
+    "E-mail": "joao.silva@gmail.com"
   },
   {
     "CPF": "17567890123",
@@ -33,7 +36,8 @@
     "Telefone": "1147859632",
     "Endereço": "Alameda dos Jasmins, 789",
     "CEP": "04578-200",
-    "Cidade": "São Paulo - SP"
+    "Cidade": "São Paulo - SP",
+    "E-mail": "mariana.goncalves@gmail.com"
   },
   {
     "CPF": "54321987654",
@@ -42,7 +46,8 @@
     "Telefone": "1125648978",
     "Endereço": "Travessa das Acácias, 321",
     "CEP": "04102-100",
-    "Cidade": "São Paulo - SP"
+    "Cidade": "São Paulo - SP",
+    "E-mail": "rafael.castro@gmail.com"
   },
   {
     "CPF": "90876543210",
@@ -51,7 +56,8 @@
     "Telefone": "1136987412",
     "Endereço": "Rua das Violetas, 987",
     "CEP": "04825-090",
-    "Cidade": "São Paulo - SP"
+    "Cidade": "São Paulo - SP",
+    "E-mail": "amanda.oliveira@gmail.com"
   },
   {
     "CPF": "65432109876",
@@ -60,7 +66,8 @@
     "Telefone": "1125874562",
     "Endereço": "Avenida dos Cravos, 456",
     "CEP": "02149-000",
-    "Cidade": "São Paulo - SP"
+    "Cidade": "São Paulo - SP",
+    "E-mail": "lucas.mendes@gmail.com"
   },
   {
     "CPF": "28765341209",
@@ -69,7 +76,8 @@
     "Telefone": "1145327896",
     "Endereço": "Rua dos Girassóis, 876",
     "CEP": "05518-030",
-    "Cidade": "São Paulo - SP"
+    "Cidade": "São Paulo - SP",
+    "E-mail": "juliana.santos@gmail.com"
   },
   {
     "CPF": "40256789012",
@@ -78,7 +86,8 @@
     "Telefone": "1196874321",
     "Endereço": "Alameda das Begônias, 987",
     "CEP": "04130-060",
-    "Cidade": "São Paulo - SP"
+    "Cidade": "São Paulo - SP",
+    "E-mail": "ricardo.barbosa@gmail.com"
   },
   {
     "CPF": "21345678900",
@@ -87,6 +96,7 @@
     "Telefone": "1136987452",
     "Endereço": "Rua das Orquídeas, 456",
     "CEP": "03025-040",
-    "Cidade": "São Paulo - SP"
+    "Cidade": "São Paulo - SP",
+    "E-mail": "camila.oliveira@gmail.com"
   }
 ]
