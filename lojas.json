@@ -1,0 +1,55 @@
+[
+   {
+      "Nome Loja":"Shopping Anália Franco",
+      "Endereco":"Av. Reg. Feijó, 1739 - Jardim Analia Franco, São Paulo - SP",
+      "Horario":"Todos os dias, das 09h às 21h",
+      "localizacao":{
+         "__type":"GeoPoint",
+         "latitude":-23.55769,
+         "longitude":-46.57171
+      }
+   },
+   {
+      "Nome Loja":"Bourbon Shopping",
+      "Endereco":"R. Palestra Itália, 500 - Perdizes, São Paulo - SP",
+      "Horario":"De segunda á sexta, das 09h às 18h",
+	  "localizacao":{
+         "__type":"GeoPoint",
+         "latitude":-23.74934,
+         "longitude":-46.75157
+      }
+   },
+   {
+      "Nome Loja":"Shopping JK Iguatemi",
+      "Endereco":"Av. Pres. Juscelino Kubitschek, 2041 - Vila Olímpia, São Paulo - SP",
+      "Horario":"De segunda á sexta, das 09h às 18h",
+	  "localizacao":{
+         "__type":"GeoPoint",
+         "latitude":-23.59165,
+         "longitude":-46.68487,
+
+      }
+   }
+   {
+      "Nome Loja":"Shopping Penha",
+      "Endereco":"R. Dr. João Ribeiro, 304 - Penha de França, São Paulo - SP",
+      "Horario":"De segunda á sábado, das 09h às 18h",
+	  "localizacao":{
+         "__type":"GeoPoint",
+         "latitude":-23.52457,
+         "longitude":-46.54779,
+
+      }
+   
+   {
+      "Nome Loja":"Shopping Internacional de Guarulhos",
+      "Endereco":"Rod. Pres. Dutra, 225 - Vila Itapegica, Guarulhos - SP",
+      "Horario":"De segunda á sábado, das 09h às 18h",
+	  "localizacao":{
+         "__type":"GeoPoint",
+         "latitude":-23.47595,
+         "longitude":-46.52508,
+
+      }
+   }
+]
