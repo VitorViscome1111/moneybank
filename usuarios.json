@@ -41,33 +41,33 @@
   },
   {
     "CPF": "54321987654",
-    "NomeCompleto": "Rafael Castro Pereira",
+    "NomeCompleto": "Caio Amorim",
     "DatadeNascimento": "17/06/1979",
     "Telefone": "1125648978",
     "Endereco": "Travessa das Acácias, 321",
     "CEP": "04102-100",
     "Cidade": "São Paulo - SP",
-    "Email": "rafael.castro@gmail.com"
+    "Email": "caio.amorim@proa.ai"
   },
   {
     "CPF": "90876543210",
-    "NomeCompleto": "Amanda Oliveira Silva",
+    "NomeCompleto": "Jean Fernandes",
     "DatadeNascimento": "30/04/1995",
     "Telefone": "1136987412",
     "Endereco": "Rua das Violetas, 987",
     "CEP": "04825-090",
     "Cidade": "São Paulo - SP",
-    "Email": "amanda.oliveira@gmail.com"
+    "Email": "jean.fernandes@proa.ai"
   },
   {
     "CPF": "65432109876",
-    "NomeCompleto": "Lucas Mendes Costa",
+    "NomeCompleto": "Sheila Marques",
     "DatadeNascimento": "11/02/1982",
     "Telefone": "1125874562",
     "Endereco": "Avenida dos Cravos, 456",
     "CEP": "02149-000",
     "Cidade": "São Paulo - SP",
-    "Email": "lucas.mendes@gmail.com"
+    "Email": "sheila.marques@proa.ai"
   },
   {
     "CPF": "28765341209",
