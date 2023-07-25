@@ -48,5 +48,25 @@
          "latitude":-23.47595,
          "longitude":-46.52508
       }
+   },
+   {
+      "Nome Loja":"Shopping Tamboré",
+      "Endereco":"Av. Piracema, 669 - Tamboré, Barueri - SP",
+      "Horario":"De segunda á sábado, das 09h às 18h",
+	  "localizacao":{
+         "__type":"GeoPoint",
+         "latitude":-23.5031,
+         "longitude":-46.8321
+      }
+   },
+   {
+      "Nome Loja":"São Bernardo Plaza Shopping",
+      "Endereco":"Av. Rotary, 624 - Centro, São Bernardo do Campo - SP",
+      "Horario":"De segunda á sábado, das 09h às 18h",
+	  "localizacao":{
+         "__type":"GeoPoint",
+         "latitude":-23.72237,
+         "longitude":-46.54411
+      }
    }
 ]
