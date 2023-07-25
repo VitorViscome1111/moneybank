@@ -26,10 +26,9 @@
 	  "localizacao":{
          "__type":"GeoPoint",
          "latitude":-23.59165,
-         "longitude":-46.68487,
-
+         "longitude":-46.68487
       }
-   }
+   },
    {
       "Nome Loja":"Shopping Penha",
       "Endereco":"R. Dr. João Ribeiro, 304 - Penha de França, São Paulo - SP",
@@ -37,10 +36,9 @@
 	  "localizacao":{
          "__type":"GeoPoint",
          "latitude":-23.52457,
-         "longitude":-46.54779,
-
+         "longitude":-46.54779
       }
-   
+   },
    {
       "Nome Loja":"Shopping Internacional de Guarulhos",
       "Endereco":"Rod. Pres. Dutra, 225 - Vila Itapegica, Guarulhos - SP",
@@ -48,8 +46,7 @@
 	  "localizacao":{
          "__type":"GeoPoint",
          "latitude":-23.47595,
-         "longitude":-46.52508,
-
+         "longitude":-46.52508
       }
    }
 ]
