@@ -2,7 +2,7 @@
   {
     "CPF": "38730158893",
     "Nome Completo": "Vitor Viscome Ribeiro",
-    "Data de Nascimento": "08/03/2000",
+    "DatadeNascimento": "08/03/2000",
     "Telefone": "11985702857",
     "Endereço": "Rua das Flores, 852",
     "CEP": "85220-010",
@@ -12,7 +12,7 @@
   {
     "CPF": "40119234560",
     "Nome Completo": "Carolina Almeida Santos",
-    "Data de Nascimento": "12/07/1985",
+    "DatadeNascimento": "12/07/1985",
     "Telefone": "1133254789",
     "Endereço": "Av. das Palmeiras, 123",
     "CEP": "01325-080",
@@ -22,7 +22,7 @@
   {
     "CPF": "29080370191",
     "Nome Completo": "João da Silva Santos",
-    "Data de Nascimento": "21/11/1992",
+    "DatadeNascimento": "21/11/1992",
     "Telefone": "11984561236",
     "Endereço": "Rua dos Ipês, 456",
     "CEP": "03230-040",
@@ -32,7 +32,7 @@
   {
     "CPF": "17567890123",
     "Nome Completo": "Mariana Gonçalves Rodrigues",
-    "Data de Nascimento": "05/09/1988",
+    "DatadeNascimento": "05/09/1988",
     "Telefone": "1147859632",
     "Endereço": "Alameda dos Jasmins, 789",
     "CEP": "04578-200",
@@ -42,7 +42,7 @@
   {
     "CPF": "54321987654",
     "Nome Completo": "Rafael Castro Pereira",
-    "Data de Nascimento": "17/06/1979",
+    "DatadeNascimento": "17/06/1979",
     "Telefone": "1125648978",
     "Endereço": "Travessa das Acácias, 321",
     "CEP": "04102-100",
@@ -52,7 +52,7 @@
   {
     "CPF": "90876543210",
     "Nome Completo": "Amanda Oliveira Silva",
-    "Data de Nascimento": "30/04/1995",
+    "DatadeNascimento": "30/04/1995",
     "Telefone": "1136987412",
     "Endereço": "Rua das Violetas, 987",
     "CEP": "04825-090",
@@ -62,7 +62,7 @@
   {
     "CPF": "65432109876",
     "Nome Completo": "Lucas Mendes Costa",
-    "Data de Nascimento": "11/02/1982",
+    "DatadeNascimento": "11/02/1982",
     "Telefone": "1125874562",
     "Endereço": "Avenida dos Cravos, 456",
     "CEP": "02149-000",
@@ -72,7 +72,7 @@
   {
     "CPF": "28765341209",
     "Nome Completo": "Juliana Santos Lima",
-    "Data de Nascimento": "25/10/1990",
+    "DatadeNascimento": "25/10/1990",
     "Telefone": "1145327896",
     "Endereço": "Rua dos Girassóis, 876",
     "CEP": "05518-030",
@@ -82,7 +82,7 @@
   {
     "CPF": "40256789012",
     "Nome Completo": "Ricardo Barbosa Pereira",
-    "Data de Nascimento": "19/12/1987",
+    "DatadeNascimento": "19/12/1987",
     "Telefone": "1196874321",
     "Endereço": "Alameda das Begônias, 987",
     "CEP": "04130-060",
@@ -92,7 +92,7 @@
   {
     "CPF": "21345678900",
     "Nome Completo": "Camila Oliveira Santos",
-    "Data de Nascimento": "02/08/1998",
+    "DatadeNascimento": "02/08/1998",
     "Telefone": "1136987452",
     "Endereço": "Rua das Orquídeas, 456",
     "CEP": "03025-040",
